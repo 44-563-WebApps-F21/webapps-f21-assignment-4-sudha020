@@ -1,6 +1,6 @@
 .speech{
-    color: black;
-    font-size: 20px;
+    color: yellowgreen;
+    font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
     .stage-direction :hover
@@ -10,8 +10,8 @@
         font-family: 'Times New Roman', Times, serif;
     }
     .name{
-        color: black;
-        font-size: 22px;
+        color: red;
+        font-size: 18px;
         font-family: 'Times New Roman', Times, serif;
     }
 .MORANZONE{
@@ -19,7 +19,7 @@
     
 }
 .GUIDO{
-    color: rgb(23, 72, 116);
+    color: green;
 
 }
 .ASCANIO{
