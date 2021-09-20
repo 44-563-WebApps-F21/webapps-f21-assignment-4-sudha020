@@ -25,3 +25,24 @@
 .ASCANIO{
     color:darkgreen;
 }
+
+
+table{
+    border: 2px yellowgreen;
+    text-align: left;
+    border-style: solid;
+    border-collapse: collapse;
+    width: 10%;
+}
+th{
+    border: 2px blue;
+    text-align: left;
+    border-style: solid;
+    
+}
+td{
+    border: 2px chocolate;
+    text-align: left;
+    border-style: solid;
+    width: 100%;
+}
