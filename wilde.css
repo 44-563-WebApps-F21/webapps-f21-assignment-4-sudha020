@@ -3,6 +3,9 @@
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
+    .speech:hover{
+        color: darkred;
+    }
     .stage-direction :hover
     {
         color: rgba(144, 238, 144, 0);
@@ -13,6 +16,9 @@
         color: red;
         font-size: 18px;
         font-family: 'Times New Roman', Times, serif;
+    }
+    .name:hover{
+        color: darkblue;
     }
 .MORANZONE{
     color:blue;
@@ -46,3 +52,24 @@ td{
     border-style: solid;
     width: 100%;
 }
+ul.su {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li.su {
+    float: left;
+    display: inline;
+  }
+  
+  li.su a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:darkred
+  }
+  
